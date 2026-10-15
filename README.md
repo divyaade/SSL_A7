@@ -1,9 +1,9 @@
 # CS 202C — Software Systems Lab 7
 
 **Repository:** SSL-L7  
-**Student:** Prajyot Satarde  
-**Roll Number:** MC25BT012  
-**Branch:** Mathematics and Computing  
+**Student:** DIVYA ADE 
+**Roll Number:** CS25BT048 
+**Branch:** CSE 
 **Institute:** IIT Dharwad
 
 This repository contains the source code, unit tests, documentation, and Git version-control exercises completed for Software Systems Lab Assignment 7.
