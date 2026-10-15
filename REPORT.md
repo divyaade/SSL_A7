@@ -1,8 +1,8 @@
 # CS 202C Software Systems Lab — Assignment 7
 
-**Student:** Prajyot Satarde  
-**Roll No.:** MC25BT012  
-**Branch:** Mathematics and Computing, IIT Dharwad  
+**Student:** DIVYA ADE  
+**Roll No.:** CS25BT048 
+**Branch:** CSE  
 **Topic:** Version management and Git commands
 
 ## Package structure
